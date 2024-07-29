@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# RStudio auxiliary files
+*.Rproj
+
+# Talk notes
+talk-notes.md
